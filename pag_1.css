@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;1,400;1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital@1&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+header{
+    width: 100%;    
+    text-align: center;
+    padding-top: 15px;
+    background-color: #04b8ff42;
+    font-family: FreeMono, monospace!important;
+
+}
+header div button{
+    background: #0abaff75;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    font-family: Lora;
+    padding: 2px;
+}
+header div button:last-child{
+background-color: rgba(58, 58, 172, 0.329);
+}
