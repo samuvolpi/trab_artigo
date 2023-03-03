@@ -1,8 +1,5 @@
-import { Link, animateScroll as scroll } from "react-scroll";
-
-<Link to="section1"></Link>
-
 import React, { Component } from "react";
+import logo from "./logo.svg";
 import "./App.css";
 import Navbar from "./Components/Navbar";
 import Section from "./Components/Section";
