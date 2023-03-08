@@ -44,7 +44,6 @@ header div a:last-child:active{
 /* Link das Outras páginas */
 a {
     display: inline-block;
-    width: 5%;
     text-decoration: none;
     color: inherit;
   }
